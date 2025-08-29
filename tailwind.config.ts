@@ -66,10 +66,10 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				'tech-cyan': '#00D4FF',
-				'tech-black': '#1A1A1A',
-				'tech-gray': '#F5F5F5',
-				'tech-orange': '#FF6B35'
+				'tech-cyan': '#94A3B8',
+				'tech-black': '#1E293B',
+				'tech-gray': '#F8FAFC',
+				'tech-orange': '#CBD5E1'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
