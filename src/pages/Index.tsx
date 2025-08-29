@@ -219,7 +219,7 @@ const Index = () => {
                       <Badge variant="outline" className="text-xs">{product.category}</Badge>
                     </div>
                     <div className="flex items-center space-x-1">
-                      <Icon name="Star" size={16} className="text-yellow-500 fill-yellow-500" />
+                      <Icon name="Star" size={16} className="text-gray-400 fill-gray-400" />
                       <span className="text-sm text-muted-foreground">{product.rating}</span>
                     </div>
                   </div>
